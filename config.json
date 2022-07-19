@@ -1,0 +1,12 @@
+{
+    "name": null,
+    "parent": null,
+    "top": null,
+    "right": null,
+    "bottom": null,
+    "left": null,
+    "width": null,
+    "height": null,
+    "borders": { "left": "", "right": "", "top": "", "bottom": "" },
+    "padding": { "left": 0, "right": 0, "top": 0, "bottom": 0 }
+  }
